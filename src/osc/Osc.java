@@ -20,7 +20,9 @@ public class Osc {
         System.out.println("hola sylvia como estas");
           System.out.println("hola sylvia como estas");
         
-        
+        System.out.println("hola sylvia como estas");
+        System.out.println("hola sylvia como estas");
+          System.out.println("hola sylvia como estas");
     }
     
 }
